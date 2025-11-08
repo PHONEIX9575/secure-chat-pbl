@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+.env
+uploads
+.DS_Store
+
+# build artifacts
+dist
+build
